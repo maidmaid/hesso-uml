@@ -40,7 +40,7 @@ public class Booking
 	
 	private double calculateTotal()
 	{
-		// Salut
+		// Salut 2
 		return 0;
 	}
 }
